@@ -6,4 +6,4 @@ Please Subcribe to testbuds.in
 
 My Blogging Website
 # techbits.tech
-<a href="https://tectbits.tech">Click Here</a>
+<a href="https://techbits.tech">Click Here</a>
